@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/creative-cartoon-gamer-room_23-2148936604.jpg?w=1380&t=st=1674580088~exp=1674580688~hmac=0c672b8a087924c594ebb4abaee4893784449f7f378b95bd7b6894adb1a7e4b0)]
+[![MasterHead](https://www.skrill.com/fileadmin/Personal/Skrill_News/Poker/Online_poker_setup/Online_poker_setup_header.jpg)]
 <h1 align="center">Hi 👋, I'm Ayush Jagdhane</h1>
 <h3 align="center">A passionate frontend developer,Experience in-- MERN \ Next JS</h3>
 
