@@ -1,4 +1,4 @@
-![MasterHead]([https://www.skrill.com/fileadmin/Personal/Skrill_News/Poker/Online_poker_setup/Online_poker_setup_header.jpg](https://pin.it/7wUB27E))]
+![MasterHead]([(https://www.skrill.com/fileadmin/Personal/Skrill_News/Poker/Online_poker_setup/Online_poker_setup_header.jpg)))]
 <h1 align="center">Hi 👋, I'm Ayush Jagdhane</h1>
 <h3 align="center">A passionate frontend developer,Experience in-- MERN \ Next JS</h3>
 
