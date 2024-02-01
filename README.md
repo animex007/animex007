@@ -1,4 +1,4 @@
-![MasterHead]([(https://www.skrill.com/fileadmin/Personal/Skrill_News/Poker/Online_poker_setup/Online_poker_setup_header.jpg)))]
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="2500" height="400"></img>
 <h1 align="center">Hi 👋, I'm Ayush Jagdhane</h1>
 <h3 align="center">A passionate frontend developer,Experience in-- MERN \ Next JS</h3>
 
@@ -18,8 +18,6 @@
 - 💬 Ask me about **react ,html , css , sass ,javascript ,next js, web 3.0**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/ayush-jagdhane-528092241/](https://www.linkedin.com/in/ayush-jagdhane-528092241/)
-
-- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
