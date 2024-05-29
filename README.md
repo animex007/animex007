@@ -31,4 +31,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animex007&show_icons=true&locale=en" alt="animex007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animex007&" alt="animex007" /></p>
-[![An image of @animex007's Holopin badges, which is a link to view their full Holopin profile]<img src="(https://holopin.me/animex007)](https://holopin.io/@animex007)" />
+<p><img src="(https://holopin.me/animex007)](https://holopin.io/@animex007)" /></p>
