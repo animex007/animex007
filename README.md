@@ -28,6 +28,8 @@
 
 [![animex007's GitHub | Stats](https://stats.quine.sh/animex007/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=animex007)  [![animex007's GitHub | Dependencies](https://stats.quine.sh/animex007/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=animex007)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animex007&" alt="animex007" /></p>
+
 [![An image of @animex007's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/animex007)](https://holopin.io/@animex007)
 
 
