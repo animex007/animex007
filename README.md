@@ -27,6 +27,7 @@
 
 
 [![animex007's GitHub | Stats](https://stats.quine.sh/animex007/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=animex007)  [![animex007's GitHub | Dependencies](https://stats.quine.sh/animex007/dependencies?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=animex007)
+[![animex007's GitHub | Languages Over Time](https://stats.quira.sh/animex007/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=animex007)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animex007&" alt="animex007" /></p>
 
